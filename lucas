@@ -1,0 +1,19 @@
+# Somente na primeira configuraçâo do computador 
+git config --global user.name "lucas"
+git config --global user.email "lucasleandro.viana@gmail.com"
+
+# Somente no inicio do projeto 
+git init
+
+# Sempre que uma atualização for feita no projeto
+
+git add-
+git commint - "mensagem para o mommit"
+git push
+
+# Sempre que for baixar o projerto no outro computador 
+
+git clone sitedoprojeto.git
+
+# Sempre quer for atualizar o projeto na máquina com atualizaçães que foram feitas 
+de outro computador
